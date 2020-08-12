@@ -18,12 +18,12 @@ portfolio:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
       - title: "Data Cleaning and Handling Missing Values"
-        url: /portfolio/Data-Cleaning-and-Handling-Missing-Values/
-      - title: "Sales-Analysis"
-        url: /portfolio/Sales-Analysis/
-      - title: "Covid-19-Exploratory-Analysis"
-        url: /portfolio/Covid-19-Exploratory-Analysis/
-      - title: "Predicting-Loan-Status-(EDA)"
-        url: /portfolio/Predicting-Loan-Status-(EDA)/
-      - title: "Predicting-Loan-Status-(Modelling)"
-        url: /portfolio/Predicting-Loan-Status-(Modelling)/
+        url: /portfolio/Data_Cleaning_and_Handling_Missing_Values/
+      - title: "Sales Analysis"
+        url: /portfolio/Sales_Analysis/
+      - title: "Covid 19 Exploratory Analysis"
+        url: /portfolio/Covid_19_Exploratory_Analysis/
+      - title: "Predicting Loan Status (EDA)"
+        url: /portfolio/Predicting_Loan_Status_(EDA)/
+      - title: "Predicting Loan Status (Modelling)"
+        url: /portfolio/Predicting_Loan_Status_(Modelling)/
