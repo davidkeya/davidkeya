@@ -31,7 +31,7 @@ minimal_mistakes_skin: "dirt"
 author:
   name   : "David Keya"
   avatar : "/assets/images/new/david.jpg"
-  bio    : "I enjoy probing data to derive meaningful insights."
+  bio    : "Data Specialist with background in Physical and Natural Sciences."
   location: "Long Beach, CA"
   github : davidkeya
   linkedin: davidkeya
@@ -42,7 +42,7 @@ author:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "pwills-com"
+    shortname: "dkeya-com"
 
 analytics:
   provider: "google"
