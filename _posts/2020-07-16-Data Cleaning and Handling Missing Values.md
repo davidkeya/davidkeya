@@ -1,11 +1,11 @@
 ---
-title: DATA CLEANING AND HANDLING MISSING VALUES
+title: Data Cleaning and Handling Missing values
 subtitle: Introduction
 date: 2020-07-16
 tags: [Exploratory data analysis, data science, messy data]
 header:
   image: "/images/data_cleaning/clean.jpg"
-excerpt: "exploratory data analysis, data science, messy data"
+excerpt: "Exploratory data analysis, messy data"
 mathjax: "true"
 ---
 
