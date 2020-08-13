@@ -17,25 +17,13 @@ portfolio:
     children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
-      - title: "Anomaly Detection in Social Networks"
-        url: /portfolio/social-networks/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
-
-  - title: "Professional"
-    children:
-      - title: "DeskAI"
-        url: /portfolio/deskai
-      - title: "Smart Climate Index"
-        url: /portfolio/sclm
-
-  - title: "Research"
-    children:
-      - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
+      - title: "Sales Analysis"
+        url: /portfolio/Sales_Analysis/
+      - title: "Data cleaning and handling missing values"
+        url: /portfolio/Data_Cleaning/
+      - title: "Covid-19 Exploratory data Analysis"
+        url: /portfolio/Covid_19/
+      - title: "Predicting Loan Status (EDA)"
+        url: /portfolio/Loan_Eda/
+      - title: "Predicting Loan Status (Modelling)"
+        url: /portfolio/Loan_Modelling/
