@@ -1,8 +1,8 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/new/faaiq.jpg
-  caption: "Photo credit: [**faaiq**](https://pexels.com)"
+  overlay_image: /assets/images/new/portfolio/home.jpg
+  caption: "Photo credit: [**freddie marriage**](https://unsplash.com)"
 permalink: /portfolio/index.html
 date: 2020-08-13
 
