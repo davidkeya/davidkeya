@@ -1,14 +1,39 @@
 ---
-title: Twelve Month Sales Analysis
-subtitle: Problem Statement and Background
-date: 2020-05-22
-tags: [Exploratory data analysis, data science, messy data]
 header:
-  image: "/images/sales_analysis/vintage.jpg"
-excerpt: "exploratory data analysis, data science, messy data"
-mathjax: "true"
+  overlay_image: /assets/images/new/sales/rupixen.jpg
+  caption: "Photo credit: [**rupixen**](https://unsplash.com)"
+permalink: /portfolio/Sales_Analysis/
+date: 2020-05-22
+toc: true
+toc_label: "Contents"
 ---
 
+#  Twelve Months of Sales Data Analysis
+
+## Summary
+In this project I use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
+
+I start by cleaning the data. Tasks during this section include:
+
+Drop NaN values from DataFrame
+Removing rows based on a condition
+Change the type of columns (to_numeric, to_datetime, astype)
+Once the data is cleaned up a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
+
+What was the best month for sales? How much was earned that month?
+What city sold the most product?
+What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+What products are most often sold together?
+What product sold the most? Why do you think it sold the most?
+To answer these questions we walk through many different pandas & matplotlib methods. They include:
+
+Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+Adding columns
+Parsing cells as strings to make new columns (.str)
+Using the .apply() method
+Using groupby to perform aggregate analysis
+Plotting bar charts and lines graphs to visualize our results
+Labeling our graphs
 
 #### Import Necessary files
 
