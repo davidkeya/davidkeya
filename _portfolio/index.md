@@ -1,31 +1,31 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/tools.jpg
-  caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
+  overlay_image: /assets/images/new/faaiq.jpg
+  caption: "Photo credit: [**faaiq**](https://pexels.com)"
 permalink: /portfolio/index.html
-date: 2018-01-07
+date: 2020-08-13
 
 feature_row:
-  - image_path: assets/images/ai_head.jpg
-    alt: "DeskAI"
-    title: "DeskAI: Smarter Online User Targeting"
-    excerpt: "Automated optimization of online advertising campaigns."
-    url: "/portfolio/deskai/"
+  - image_path: assets/images/new/portfolio/sales_oleg.jpg
+    alt: "Sales"
+    title: "Sales: Twelve Month Sales Analysis"
+    excerpt: "Exploratory data analysis of twelve months of electronic sales"
+    url: "/portfolio/Sales_Analysis/"
     btn_label: "Read More"
-    btn_class: "btn--primary"	
-  - image_path: /assets/images/miles.jpg
-    alt: "Music"
-    title: "Algorithmic Musical Genre Classification"
-    excerpt: "Detection of musical genre directly from the audio file."
-    url: "/portfolio/genre_cls/"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/new/portfolio/clean.jpg
+    alt: "Clean Data"
+    title: "Data Cleaning and Handling Missing Values"
+    excerpt: "Indepth analysis on cleaning data and handling missing values ."
+    url: "/portfolio/Data_Cleaning/"
     btn_label: "Read More"
-    btn_class: "btn--primary"	
-  - image_path: /assets/images/social_network.jpg
-    alt: "Social Network"
-    title: "Anomaly Detection in Social Networks"
-    excerpt: "Anomaly detection in social network data, using the graph resistance."
-    url: "/portfolio/social-networks/"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/new/portfolio/covid.jpg
+    alt: "Covid-19"
+    title: "2019 Corona Virus Exploratory Analysis"
+    excerpt: "An analysis of the novel 2019 corona virus, its spread and effects."
+    url: "/portfolio/Covid_19/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -34,13 +34,9 @@ feature_row:
 
 Here you'll find summaries of the major projects I've done over the years, which
 are representative of my skills and interests. These projects span everything
-from mathematical physics to machine learning, from finance to advertising, from
+from mathematical physics to health, from finance to education, from
 the theoretical to the practical.
 
-The discussion here is generally non-technical; for the research projects,
-related publications can be found in [my resume][1]. There are also links to
-documents at the top of each page, which offer more depth. If you're curious
-about technical details I've glossed over, feel free to [contact me][2].
 
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
