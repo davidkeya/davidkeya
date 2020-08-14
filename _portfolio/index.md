@@ -2,7 +2,7 @@
 classes: wide
 header:
   overlay_image: /assets/images/new/portfolio/home.jpg
-  caption: "Photo credit: [**freddie marriage**](https://unsplash.com)"
+  caption: "Photo credit: [**pickawood**](https://unsplash.com)"
 permalink: /portfolio/index.html
 date: 2020-08-13
 
