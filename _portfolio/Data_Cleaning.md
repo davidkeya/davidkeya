@@ -3,12 +3,10 @@ header:
   overlay_image: /assets/images/new/data_cleaning/clean_wide.jpg
   caption: "Photo credit: [**Gratisography**](https://Gratisography.com)"
 permalink: /portfolio/Data_Cleaning/
-category: messy_data
 date: 2020-07-16
 toc: true
 toc_label: "Contents"
 ---
-
 
 
 # Data Cleaning and handling Missing Values

@@ -1,14 +1,14 @@
 ---
 header:
   overlay_image: /assets/images/new/covid/miguel.jpg
-  caption: "Photo credit: [**miguel-Ã¡-padriÃ±Ã¡n**](https://pexels.com)"
+  caption: "Photo credit: [**miguel-Ã¡-padriÃ**](https://pexels.com)"
 permalink: /portfolio/Covid_19/
 date: 2020-05-25
 toc: true
 toc_label: "Contents"
 ---
 
-# COVID_2019(Exploratory analysis)
+# 2019 Corona Virus Exploratory Data Analysis
 
 ## Data Source
 >Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Disease (COVID-19) – Statistics and Research". Published [online](https://ourworldindata.org/coronavirus) at OurWorldInData.org.
