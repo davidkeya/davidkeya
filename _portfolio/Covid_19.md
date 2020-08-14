@@ -8,7 +8,7 @@ toc: true
 toc_label: "Contents"
 ---
 
-# COVID_2019(Explotary analysis)
+# COVID_2019(Exploratory analysis)
 
 ## Data Source
 >Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Disease (COVID-19) – Statistics and Research". Published [online](https://ourworldindata.org/coronavirus) at OurWorldInData.org.
