@@ -3053,8 +3053,3 @@ The dataset preprocessing is a very crucial step in any data science project. It
 5. Filling in missing values
 
 Ultimately all the stages are important in ensuring a clean and ready dataset for analysis. There will obviously be variations in terms of the depth and scope  of application to different datasets. The biggest differentiator will be in terms of how dirty or clean a dataset is.
-
-
-```python
-
-```
