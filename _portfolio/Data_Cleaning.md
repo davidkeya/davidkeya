@@ -1,17 +1,17 @@
 ---
-title: DATA CLEANING AND HANDLING MISSING VALUES
-subtitle: Introduction
-date: 2020-07-16
-tags: [Exploratory data analysis, data science, messy data]
 header:
-  image: "/images/data_cleaning/clean.jpg"
-excerpt: "exploratory data analysis, data science, messy data"
-mathjax: "true"
+  overlay_image: /assets/images/new/data_cleaning/clean_wide.jpg
+  caption: "Photo credit: [**Gratisography**](https://Gratisography.com)"
+permalink: /portfolio/Data_Cleaning/
+category: messy_data
+date: 2020-07-16
+toc: true
+toc_label: "Contents"
 ---
 
 
 
-![jpg](/images/data_cleaning/clean.jpg)
+# Data Cleaning and handling Missing Values
 
 ## Introduction
 
