@@ -1,14 +1,20 @@
 ---
-title: Predicting Loan Status(Exploratory Data Analysis)
-subtitle: Problem Statement and Background
-date: 2018-04-20
-tags: [Exploratory data analysis, data science, messy data]
 header:
-  image: "/images/bsn.jpg"
-excerpt: "exploratory data analysis, data science, messy data"
-mathjax: "true"
+  overlay_image: /assets/images/new/loan/money.jpg
+  caption: "Photo credit: [**Alexander Mils**](https://unsplash.com)"
+permalink: /portfolio/Loan_Eda/
+date: 2020-05-25
+toc: true
+toc_label: "Contents"
 ---
-This data science problem uses a data set from Lending Club marketplace. The marketplace is a platform for personal loans that marches borrowers who are seeking a loan with investors seeking to lend money and make a return. A borrower is required to fill out an application, providing their past financial history. Comprehensive evaluation is made on each borrower's credit score using past historical data and an interest rate is assigned to to the borrower. Approved loans are listed on the Lending Club website, where qualified investors can browse recently approved loans, the borrower's credit score, the purpose for the loan, and other information from the application. Once an investor decides to fund a loan, the borrower then makes monthly payments back to Lending Club. Lending Club redistributes these payments to the investors.
+
+# An Exploratory Data Analysis on Predicting Loan Status
+
+## Data Source
+This data science problem uses a data set from Lending Club marketplace. The marketplace is a platform for personal loans that marches borrowers who are seeking a loan with investors seeking to lend money and make a return.
+
+## Summary
+A borrower is required to fill out an application, providing their past financial history. Comprehensive evaluation is made on each borrower's credit score using past historical data and an interest rate is assigned to to the borrower. Approved loans are listed on the Lending Club website, where qualified investors can browse recently approved loans, the borrower's credit score, the purpose for the loan, and other information from the application. Once an investor decides to fund a loan, the borrower then makes monthly payments back to Lending Club. Lending Club redistributes these payments to the investors.
 An investor requires a machine learning model that reliably predict if a loan will be paid off or not. The model should effectively filter out the percentage of loan defaulters.
 The file containing loan data through the "present" contains complete loan data for all loans issued through the previous completed calendar quarter.
 ## Goal
