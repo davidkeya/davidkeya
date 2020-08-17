@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/imagesnew/tsavo.jpg
+  overlay_image: /assets/images/new/tsavo.jpg
   caption: "Photo Credit: **@windowgram**"
 permalink: /about/
 ---
