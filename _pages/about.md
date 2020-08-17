@@ -1,16 +1,16 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/utah.jpg
-  caption: "Photo Credit: **Kathleen Finlinson**"
+  overlay_image: /assets/imagesnew/tsavo.jpg
+  caption: "Photo Credit: **@windowgram**"
 permalink: /about/
 ---
 
 # About Me
 
-<img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
+<img src="{{ "/assets/images/new/tsavoo.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
-  
+
 I help organizations understand and leverage their quantitative
 information. Call it what you will: data science, machine learning, or
 statistics; the modern technological world lies at the intersection of
@@ -28,7 +28,7 @@ spending some time pursuing other interests,[^fnote2] I began working on my
 Ph.D. in Applied Mathematics at University of Colorado. My dissertation covers a
 range of topics in statistics, data analytics, and understanding noisy
 systems. For more details on all that, check out [my portfolio](/portfolio/), or
-take a look at [my resume][4]. 
+take a look at [my resume][4].
 
 I currently live in San Francisco, where I work as a data scientist with the
 inventory optimization team at [Stitch Fix][7].
@@ -36,7 +36,7 @@ inventory optimization team at [Stitch Fix][7].
 [^fnote2]: After graduating from Reed, I spent some time living at
 	[Great Vow Zen Monastery][3], where we followed a daily schedule of work and
 	meditation.
-  
+
 [1]: mailto: peter@pwills.com
 
 [2]: /assets/docs/thesis.pdf
