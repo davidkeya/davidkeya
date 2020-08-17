@@ -11,18 +11,11 @@ permalink: /about/
 <img src="{{ "/assets/images/new/tsavoo.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
 
-I help organizations understand and leverage their quantitative
-information. Call it what you will: data science, machine learning, or
-statistics; the modern technological world lies at the intersection of
-mathematics and computing, and that's where I like to play.
+I am an aspiring multi-industry analyst, seeking to use proven business practices and data analytics skills to provide deep and actionable insights from any data set. Always searching for challenging opportunities to apply current expertise. I love working on projects, so feel free to reach out for collaboration.
 
-I've worked with [Stage 1 start-ups][5] and [publicly traded corporations][6],
-building models, establishing codebases, and providing mathematical expertise to
-developers. My mother tongue is Python, but I also speak Scala and Java. I have
-experience working with Apache Spark, scikit-learn, Tensorflow, pandas, and many
-other popular data analysis and machine learning libraries.
+My mother tongue is Python, but I also have experience working with dashboard /report skills using Excel, Python data visualization tools, pandas, Matplotlib, Seaborn, NumPy and many other popular data analysis and machine learning libraries.
 
-I have a bachelors degree in Physics from Reed College, where I did
+I have a bachelors degree in Physics from Kenyatta University, where I did
 [my thesis][2] on measurement of quantum entanglement in optical systems. After
 spending some time pursuing other interests,[^fnote2] I began working on my
 Ph.D. in Applied Mathematics at University of Colorado. My dissertation covers a
