@@ -1392,7 +1392,7 @@ plt.show()
 ```
 
 
-![png](assets/images/sales_analysis/output_40_0.png)
+![png](/assets/images/sales/output_40_0.png)
 
 
 #### What city has the highest number of sales.
@@ -1525,7 +1525,7 @@ plt.show()
 ```
 
 
-![png](assets/images/sales_analysis/output_44_0.png)
+![png](/assets/images/sales/output_44_0.png)
 
 
 #### What time should we display advertisements to maximize likelihood of customers buying product?
@@ -1832,7 +1832,7 @@ plt.show()
 ```
 
 
-![png](assets/images/sales_analysis/output_52_0.png)
+![png](/assets/images/sales/output_52_0.png)
 
 
 #### What products are most often sold together
@@ -2469,7 +2469,7 @@ prod_quantity.plot(kind='bar', figsize = (16, 8));
 ```
 
 
-![png](assets/images/sales_analysis/output_69_0.png)
+![png](assets/images/sales/output_69_0.png)
 
 
 ##### AAA Batteries sold the most, could be because they are cheap. To prove this hypothesis, the quantity sold will be overlayed by the mean price for each product
@@ -2705,5 +2705,5 @@ plt.show()
 ```
 
 
-![png](assets/images/sales_analysis/output_75_0.png)
+![png](/assets/images/sales/output_75_0.png)
 > ##### _From the plot, generally cheaper products have a high sales quantity for instance the AAA batteries sold the most because most customer could afford._

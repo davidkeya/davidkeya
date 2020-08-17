@@ -1849,7 +1849,7 @@ data['location'].value_counts().plot(kind='bar', figsize=(200,6));
 ```
 
 
-![png](assets/images/covid/output_26_0.png)
+![png](/assets/images/covid/output_26_0.png)
 
 
 # Using simple operator comparison on columns to extract relevant or drop irrelevant information
@@ -4432,7 +4432,7 @@ data.plot(kind='scatter', x='extreme_poverty', y='total_deaths_per_million');
 ```
 
 
-![png](assets/images/covid/output_44_0.png)
+![png](/assets/images/covid/output_44_0.png)
 
 
 
@@ -5497,7 +5497,7 @@ data.isnull().sum().plot(kind='bar', figsize=(25,6));
 
 
 
-![png](assets/images/covid/output_57_1.png)
+![png](/assets/images/covid/output_57_1.png)
 
 
 ## Drop columns with most  values missing
@@ -11734,7 +11734,7 @@ data_drop.groupby('location').max().total_deaths.sort_values(ascending=False).pl
 ```
 
 
-![png](assets/images/covid/output_67_0.png)
+![png](/assets/images/covid/output_67_0.png)
 
 
 ## A visual of the total_deaths_per_million per country
@@ -11745,7 +11745,7 @@ data_drop.groupby('location').max().total_deaths_per_million.sort_values(ascendi
 ```
 
 
-![png](assets/images/covid/output_69_0.png)
+![png](/assets/images/covid/output_69_0.png)
 
 
 
@@ -12658,7 +12658,7 @@ plt.show()
 
 
 
-![png](assets/images/covid/output_75_6.png)
+![png](/assets/images/covid/output_75_6.png)
 
 
 
@@ -12673,7 +12673,7 @@ sns.heatmap(myBasicCorr);
 ```
 
 
-![png](assets/images/covid/output_77_0.png)
+![png](/assets/images/covid/output_77_0.png)
 
 
 ## The is stronger Correlation between female smokers and age above 65 years
@@ -12686,7 +12686,7 @@ data.plot(kind='scatter', x='female_smokers', y='aged_65_older');
 ```
 
 
-![png](assets/images/covid/output_79_0.png)
+![png](/assets/images/covid/output_79_0.png)
 
 
 
@@ -12695,7 +12695,7 @@ data.plot(kind='scatter', x='female_smokers', y='aged_70_older');
 ```
 
 
-![png](assets/images/covid/output_80_0.png)
+![png](/assets/images/covid/output_80_0.png)
 
 
 ## Correlation on female smokers vs age from other sources
