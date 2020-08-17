@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: /assets/images/new/data_cleaning/clean_wide.jpg
+  overlay_image: /assets/images/data_cleaning/clean_wide.jpg
   caption: "Photo credit: [**Gratisography**](https://Gratisography.com)"
 permalink: /portfolio/Data_Cleaning/
 date: 2020-07-16
@@ -1231,7 +1231,7 @@ sf_missing_values_count = sf_permits.isnull().sum().plot(kind = 'bar', figsize=(
 ```
 
 
-![png](/images/data_cleaning/output_32_0.png)
+![png](assets/images/data_cleaning/output_32_0.png)
 
 
 ## Dropping missing values

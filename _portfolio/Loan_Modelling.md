@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: /assets/images/new/loan/loan_corr.png
+  overlay_image: /assets/images/loan/loan_corr.png
   #caption: "Photo credit: [**Alexander Mils**](https://unsplash.com)"
 permalink: /portfolio/Loan_Modelling/
 date: 2020-05-25
@@ -689,7 +689,7 @@ plt.ylabel('Accuracy Score');
 ```
 
 
-![png](images/loan/output_23_0.png)
+![png](/assets/images/loan/output_23_0.png)
 
 
 
@@ -795,7 +795,7 @@ plt.ylabel('RMSE ');
 ```
 
 
-![png](images/loan/output_30_0.png)
+![png](/assets/images/loan/output_30_0.png)
 
 
 - ** A lower RMSE is better**

@@ -1,27 +1,27 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/new/portfolio/home.jpg
+  overlay_image: /assets/images/portfolio/home.jpg
   caption: "Photo credit: [**pickawood**](https://unsplash.com)"
 permalink: /portfolio/index.html
 date: 2020-08-13
 
 feature_row:
-  - image_path: assets/images/new/portfolio/sales_oleg.jpg
+  - image_path: assets/images/portfolio/sales_oleg.jpg
     alt: "Sales"
     title: "Sales: Twelve Month Sales Analysis"
     excerpt: "Exploratory data analysis of twelve months of electronic sales"
     url: "/portfolio/Sales_Analysis/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/new/portfolio/clean.jpg
+  - image_path: /assets/images/portfolio/clean.jpg
     alt: "Clean Data"
     title: "Data Cleaning and Handling Missing Values"
     excerpt: "Indepth analysis on cleaning data and handling missing values ."
     url: "/portfolio/Data_Cleaning/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/new/portfolio/covid.jpg
+  - image_path: /assets/images/portfolio/covid.jpg
     alt: "Covid-19"
     title: "2019 Corona Virus Exploratory Analysis"
     excerpt: "An analysis of the novel 2019 corona virus, its spread and effects."

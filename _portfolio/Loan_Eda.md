@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: /assets/images/new/loan/money.jpg
+  overlay_image: /assets/images/loan/money.jpg
   caption: "Photo credit: [**Alexander Mils**](https://unsplash.com)"
 permalink: /portfolio/Loan_Eda/
 date: 2020-05-25
@@ -788,7 +788,7 @@ plt.ylabel('Null values');
 ```
 
 
-![Png](/images/loan/output_12_0.png)
+![Png](assets/images/loan/output_12_0.png)
 
 
 
@@ -1130,7 +1130,7 @@ plt.title("Distribution of pymnt_plan");
 ```
 
 
-![png](/images/loan/output_18_0.png)
+![png](assets/images/loan/output_18_0.png)
 
 
 
@@ -1157,7 +1157,7 @@ plt.title("Application_type column values distribution");
 ```
 
 
-![png](/images/loan/output_20_0.png)
+![png](assets/images/loan/output_20_0.png)
 
 
 
@@ -1203,7 +1203,7 @@ plt.title("Distribution of acc_now_delinq");
 ```
 
 
-![png](/images/loan/output_23_0.png)
+![png](assets/images/loan/output_23_0.png)
 
 
 
@@ -2338,7 +2338,7 @@ plt.title("Distribution of Employement Length For Issued Loans");
 
 
 
-![png](/images/loan/output_43_1.png)
+![png](assets/images/loan/output_43_1.png)
 
 
 In the above bar chart, a significant number of customers have been employed for more than 10 years
@@ -2362,7 +2362,7 @@ print loan.grade.value_counts().plot(kind='bar', figsize=(16,8), fontsize=14);
 
 
 
-![png](/images/loan/output_45_1.png)
+![png](assets/images/loan/output_45_1.png)
 
 
 In the above relationship, loan amount tends to vary inversely to the grade
@@ -2385,7 +2385,7 @@ plt.title("Loan Grade distribution")
 
 
 
-![png](/images/loan/output_47_2.png)
+![png](assets/images/loan/output_47_2.png)
 
 
 
@@ -2397,7 +2397,7 @@ sns.barplot(x="loan_amnt", y="grade", data=loan);
 ```
 
 
-![png](/images/loan/output_48_0.png)
+![png](assets/images/loan/output_48_0.png)
 
 
 ## Focus on Outcome/Target variable
@@ -2447,7 +2447,7 @@ plt.ylabel('Number of loan Applicants');
 ```
 
 
-![png](/images/loan/output_52_0.png)
+![png](assets/images/loan/output_52_0.png)
 
 
 The Loan status is highly varied with many customers in the Current and Fully paid of status
@@ -2461,7 +2461,7 @@ sns.barplot(x="loan_amnt", y="loan_status", data=loan);
 ```
 
 
-![png](/images/loan/output_54_0.png)
+![png](assets/images/loan/output_54_0.png)
 
 
 * Fully Paid loans tend to be smaller. Possibly due to the age of the loans
@@ -2726,7 +2726,7 @@ plt.ylabel('count');
 ```
 
 
-![png](/images/loan/output_65_0.png)
+![png](assets/images/loan/output_65_0.png)
 
 
 
@@ -2735,7 +2735,7 @@ loan.loan_status.value_counts().plot.pie(autopct='%1.2f%%');
 ```
 
 
-![png](/images/loan/output_66_0.png)
+![png](assets/images/loan/output_66_0.png)
 
 
 The plots indicate that majority of borrowers paid off their loan - 82.01% of loan borrowers paid off amount borrowed, while 17.99%  defaulted. From the loan data it is these 'defaulters' that we're more interested in filtering out as much as possible to reduce loses on investment returns.
@@ -3750,7 +3750,7 @@ plt.show()
 ```
 
 
-![png](/images/loan/output_92_0.png)
+![png](assets/images/loan/output_92_0.png)
 
 
 

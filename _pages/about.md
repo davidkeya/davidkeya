@@ -1,14 +1,14 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/new/tsavo.jpg
+  overlay_image: /assets/images/tsavo.jpg
   caption: "Photo Credit: **@windowgram**"
 permalink: /about/
 ---
 
 # About Me
 
-<img src="{{ "/assets/images/new/tsavoo.jpg" | absolute_url }}"
+<img src="{{ "/assets/images/tsavoo.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
 
 I am an aspiring multi-industry analyst, seeking to use proven business practices and data analytics skills to provide deep and actionable insights from any data set. Always searching for challenging opportunities to apply current expertise. I love working on projects, so feel free to reach out for collaboration.

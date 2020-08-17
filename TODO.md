@@ -1,6 +1,6 @@
 # TODO
 
-TODO items for pwills.com.
+TODO items for davidkeya.com.
 
 ## Technical
 - Icons for social media links disappeared :(
