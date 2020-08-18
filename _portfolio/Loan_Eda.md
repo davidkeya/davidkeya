@@ -788,7 +788,7 @@ plt.ylabel('Null values');
 ```
 
 
-![Png](assets/images/loan/output_12_0.png)
+![Png](/assets/images/loan/output_12_0.png)
 
 
 
