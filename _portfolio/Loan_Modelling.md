@@ -12,9 +12,9 @@ toc_label: "Contents"
 Here I try different algorithms for the problem while using a hold-out “test set” of data to evaluate performance and select the winner.
 I went ahead and worked with the following models
 
--LogisticRegression
--KNN Classification
--Classification using DecisionTreeClassifier
+- LogisticRegression
+- KNN Classification
+- Classification using DecisionTreeClassifier
 
 
 ```python
