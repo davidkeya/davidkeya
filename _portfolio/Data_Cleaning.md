@@ -1231,7 +1231,7 @@ sf_missing_values_count = sf_permits.isnull().sum().plot(kind = 'bar', figsize=(
 ```
 
 
-![png](assets/images/data_cleaning/output_32_0.png)
+![png](/assets/images/data_cleaning/output_32_0.png)
 
 
 ## Dropping missing values
