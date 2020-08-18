@@ -9,6 +9,14 @@ toc_label: "Contents"
 ---
 
 # Model Selection
+Here I try different algorithms for the problem while using a hold-out “test set” of data to evaluate performance and select the winner.
+I went ahead and worked with the following models
+
+-LogisticRegression
+-KNN Classification
+-Classification using DecisionTreeClassifier
+
+
 ```python
 import pandas as pd
 import numpy as np
@@ -21,7 +29,7 @@ plt.rcParams['figure.figsize'] = (8, 6)
 plt.rcParams['font.size'] = 14
 ```
 
-# Logistic Regression
+## Logistic Regression
 The data set has been prepared to be fed into a machine learning algorithm. Feature columns selection is necessary for the Logistic Regression Model
 
 
@@ -505,8 +513,8 @@ print metrics.accuracy_score(y_test, y_pred)
     0.852524738921
 
 
- ### Logistic Regression Testing Accuracy
- - **After making predictions on the testing set, the model achieves a testing accuracy of 85.2% is achieved.**
+### Logistic Regression Testing Accuracy
+After making predictions on the testing set, the model achieves a testing accuracy of 85.2% is achieved.
 
 
 ```python
@@ -749,7 +757,7 @@ df.sort_values('accuracy score').head().sort_index(ascending=False)
 
 ```
 
-# Classification Using Decision Trees
+## Classification Using Decision Trees
 This method classifies a population into branch-like segments that construct an inverted tree with a root node, internal nodes, and leaf nodes. The algorithm is non-parametric and can efficiently deal with large, complicated datasets without imposing a complicated parametric structure.
 
  **Building a classification tree using the Loan data set**
