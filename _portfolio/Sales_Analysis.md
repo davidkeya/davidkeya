@@ -2469,7 +2469,7 @@ prod_quantity.plot(kind='bar', figsize = (16, 8));
 ```
 
 
-![png](assets/images/sales/output_69_0.png)
+![png](/assets/images/sales/output_69_0.png)
 
 
 ##### AAA Batteries sold the most, could be because they are cheap. To prove this hypothesis, the quantity sold will be overlayed by the mean price for each product
