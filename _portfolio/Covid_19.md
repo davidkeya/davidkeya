@@ -9,6 +9,8 @@ toc_label: "Contents"
 ---
 
 # 2019 Corona Virus Exploratory Data Analysis
+
+## Summary
 Data Analysis project exploring how the COVID-19 pandemic is spreading.
 Basic statistics on the coronavirus pandemic for 195 countries in the world.
 Visualizations generated that provide  global comparative perspective in terms of:
