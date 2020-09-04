@@ -9,6 +9,23 @@ toc_label: "Contents"
 ---
 
 # 2019 Corona Virus Exploratory Data Analysis
+Data Analysis project exploring how the COVID-19 pandemic is spreading.
+Basic statistics on the coronavirus pandemic for 195 countries in the world.
+Visualizations generated that provide  global comparative perspective in terms of:
+1. Death rate:
+- How many deaths from Coronavirus have been reported.
+- Is the number of deaths still increasing?
+- How does death rate compare to other countries
+2. Testing
+- How much testing for coronavirus do countries conduct?
+- When did they start and how and how does it compare with other Countries?
+3. Confirmed cases
+- How many cases were Confirmed
+- How many tests did a country do to find one Covid_19 case.
+- Is your country bending the curve?
+4. Government responses
+- What measures did countries take in response to the pandemic.
+
 
 ## Data Source
 >Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Disease (COVID-19) – Statistics and Research". Published [online](https://ourworldindata.org/coronavirus) at OurWorldInData.org.
