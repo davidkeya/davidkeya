@@ -24,7 +24,7 @@ I currently live in Long Beach CA, where I work as a Data Specialist in the auto
 
 Do you want us to work together? Please reach out to me by [e-mail][1].
 
-[1]: mailto: davidwkeya.com
+[1]: mailto: davidwkeya@gmail.com
 
 [2]: davidwafulakeya@gmail.com
 
