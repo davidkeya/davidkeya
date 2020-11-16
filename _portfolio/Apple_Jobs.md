@@ -2,7 +2,7 @@
 header:
   overlay_image: /assets/images/apple/apple.jpg
   caption: "Photo credit: [**Carl Heyerdahl**](https://unsplash.com)"
-permalink: /portfolio/apple_jobs/
+permalink: /portfolio/Apple_jobs/
 date: 2020-11-15
 toc: true
 toc_label: "Contents"
