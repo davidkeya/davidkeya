@@ -7,4 +7,4 @@ excerpt: "Raw data cleaning."
 
 If you are not automatically redirected, please [click here](/portfolio/Apple_jobs)
 
-<meta http-equiv="refresh" content="0;url=/portfolio/Loan_Modelling">
+<meta http-equiv="refresh" content="0;url=/portfolio/Apple_jobs">
