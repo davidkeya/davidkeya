@@ -1,26 +1,16 @@
----
-header:
-  overlay_image: /assets/images/apple/apple.jpg
-  caption: "Photo credit: [**Carl Heyerdahl**](https://unsplash.com)"
-permalink: /portfolio/apple_jobs/
-date: 2020-11-15
-toc: true
-toc_label: "Contents"
----
-
-# Creating Data Pipelines From Raw Data Using SQL
+# CREATING DATA PIPELINES FROM RAW DATA USING SQL
 
 ## Data Wrangling
 Data wrangling is the process of gathering data, assessing it for quality and cleaning.
 
-![wrangle.png](/assets/images/apple/wrangle.png)
+![wrangle.png](attachment:wrangle.png)
 
 ## Data Transformation
 Data transformation refers to operations that change data.This may include data standardization, sorting,duplication,validation and verification.The ultimate goal here is to make it possible to analyze data.
-![transformation.png](/assets/images/apple/transformation.png)
+![transformation.png](attachment:transformation.png)
 Transforming raw data into clean readable and usable data is very important for any data scientist,data analyst or data engineer.The focus here will be to create a reliable data pipeline from the apple jobs dataset.
 
-In this case, I am going to explore and manipulate a live table that stores all Apple's job listings using SQL, with the following goals.
+In this case, I am going to explore and manipulate a live table that stores all Apple's job listings using SQL, with the following goals. 
 
 * Show all the distinct skills mentioned.
 
@@ -138,7 +128,7 @@ LIMIT 1
 
 
 ```python
-# Store the querry results in variable
+# Store the querry results in variable 
 results = %sql SELECT * FROM apple_jobs
 ```
 
@@ -246,7 +236,7 @@ The objective is to manipulate the available table to shows all of the *distinct
 - Count of each skill
 - Segment by state
 
-### Segmentation by state
+### Segmentation by state 
 Let's filter the table to segment all the information by state. To achieve this, we make use of the location column. The location column stores the names of the city, state and country of each job listing in the table. Lets apply a suitable SQL querry to filter out the location column by state and display only the names of states for all the job listings.
 
 #### Zero in on the location column
@@ -293,16 +283,16 @@ LIMIT 1
 %%sql
 SELECT
     title,
-
+    
     split_part(location::TEXT,',', 1) city,
     split_part(location::TEXT,',', 2) state,
     split_part(location::TEXT,',', 3) country,
-
+    
     minimum_qual,
     preferred_qual,
     responsibilities,
     education_experience
-
+    
 FROM apple_jobs
 LIMIT 1;
 ```
@@ -345,7 +335,7 @@ All of the distinct skills mentioned, as well as a count of each skill mentioned
 
 ```python
 # Store the querry results in skills_var variable
-skills_table = %sql SELECT title, split_part(location::TEXT,',', 1) city, split_part(location::TEXT,',', 2) state, split_part(location::TEXT,',', 3) country, minimum_qual, preferred_qual, responsibilities, education_experience FROM apple_jobs ORDER BY state
+skills_table = %sql SELECT title, split_part(location::TEXT,',', 1) city, split_part(location::TEXT,',', 2) state, split_part(location::TEXT,',', 3) country, minimum_qual, preferred_qual, responsibilities, education_experience FROM apple_jobs ORDER BY state 
 
 ```
 
@@ -477,8 +467,8 @@ skills_df.minimum_qual.head()
 
 
 ```python
-# change qual_lst list to string
-# using list comprehension
-qual_str = ' '.join([str(elem) for elem in qual_lst])
+# change qual_lst list to string 
+# using list comprehension 
+qual_str = ' '.join([str(elem) for elem in qual_lst]) 
 
 ```
