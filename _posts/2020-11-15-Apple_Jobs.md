@@ -1,8 +1,8 @@
 ---
-title:  "CREATING DATA PIPELINES FROM RAW DATA USING SQL"
+title:  "Creating Data Pipelines From Raw Data Using Sql"
 category: posts
 date: 2020-11-15
-excerpt: "Raw data cleaning."
+excerpt: "A series of data processing steps"
 ---
 
 If you are not automatically redirected, please [click here](/portfolio/Apple_jobs)
