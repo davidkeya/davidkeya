@@ -17,6 +17,8 @@ portfolio:
     children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
+      - title: "Creating Data Pipelines From Raw Data Using SQL"
+        url: /portfolio/Apple_jobs/
       - title: "Sales Analysis"
         url: /portfolio/Sales_Analysis/
       - title: "Data cleaning and handling missing values"
