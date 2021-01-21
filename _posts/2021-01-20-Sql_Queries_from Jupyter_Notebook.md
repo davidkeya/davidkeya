@@ -1,4 +1,12 @@
-# RUNNING BASIC SQL QUERIES FROM A JUPYTER NOTEBOOK (With Examples)
+---
+title:  "Running Basic SQL Queries From a Jupyter Notebook (With Examples)"
+category: posts
+date: 2021-01-20
+excerpt: "Here’s How to Run Basic SQL Queries From a Jupyter Notebook (With Examples)"
+---
+
+
+## Data Source
 Real data from the U.S. Census. This dataset shows the number of completed housing units in major regions of the United States. The table has a column for each region. The values in each row represent the number of housing units completed in thousands during the corresponding month. The data was collected in August 2014 and can be accessed at the U.S. Census website.
 
 ## Setting up Jupyter notebook display
@@ -5881,7 +5889,7 @@ LIMIT 10
 
 
 
-### Calculates the percentage of all houses completed in the United States represented by each region. Only return results from the year 2000 and later. 
+### Calculates the percentage of all houses completed in the United States represented by each region. Only return results from the year 2000 and later.
 
 
 
@@ -6492,7 +6500,7 @@ WHERE "group" ILIKE 'dj%'
 
 
 
-### SQL IN 
+### SQL IN
 This allows one to specify a list of values that you'd like to include in the results.
 
 
@@ -7723,7 +7731,7 @@ WHERE artist IN ('Taylor Swift', 'Usher', 'Ludacris')
 
 
 
-#### A query that shows all of the entries for Elvis and M.C. Hammer. 
+#### A query that shows all of the entries for Elvis and M.C. Hammer.
 
 
 ```sql
@@ -69416,7 +69424,7 @@ SELECT *
  WHERE year_rank <= 10
  ORDER BY 1, 2
 LIMIT 10
-                                                                                           
+
 ```
 
      * postgresql://postgres:***@localhost/portfolio
