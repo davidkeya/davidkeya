@@ -1,7 +1,4 @@
 # Configs for davidkeya.com
-# Google Analytics
-google_analytics: UA—179310861-1
-
 title: "davidkeya.com"
 name: "davidkeya.com"
 email: davidwkeya@gmail.com
@@ -90,3 +87,10 @@ defaults:
 collections:
   portfolio:
     output: true
+
+
+
+
+
+# Google Analytics
+google_analytics: UA—179310861-1
