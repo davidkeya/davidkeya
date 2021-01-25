@@ -46,7 +46,7 @@ comments:
 analytics:
   provider: "google"
   google:
-    tracking_id: "UA-116208936-1"
+    tracking_id: "UA-188026870-1"
 
 
 # pagination for blog page
@@ -93,4 +93,4 @@ collections:
 
 
 # Google Analytics
-google_analytics: UA—179310861-1
+google_analytics: UA-188026870-1
