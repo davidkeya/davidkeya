@@ -1,4 +1,10 @@
-### Hi there 👋
+I am an aspiring multi-industry data analyst, seeking to use proven business practices and data analytics skills to provide deep and actionable insights from any data set. Always searching for challenging opportunities to apply current expertise. I love working on projects, so feel free to reach out for collaboration.
+
+My mother tongue is Python, but I also have experience working with dashboard /report skills using SQL, Excel, data visualization tools, pandas, Matplotlib, Seaborn, NumPy and many other popular data analysis and machine learning libraries.
+
+I have a bachelors degree in Mathematics and Physics from Kenyatta University, and a certification in Data analytics from General Assembly. My quantitative background enabled me to smoothly transition into the field of data analytics, where I have passionately used my skills to positively influence business decisions.
+
+
 
 <!--
 **davidkeya/davidkeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
