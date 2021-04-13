@@ -14,11 +14,11 @@ A data pipeline is a series of data processing steps. If the data is not current
 ## Data Wrangling
 Data wrangling is the process of gathering data, assessing it for quality and cleaning.
 
-![wrangle.png](/assets/images/apple/wrangle.png)
+![wrangle.png](/assets/images/data_pipelines/wrangle.png)
 
 ## Data Transformation
 Data transformation refers to operations that change data.This may include data standardization, sorting,duplication,validation and verification.The ultimate goal here is to make it possible to analyze data.
-![transformation.png](/assets/images/apple/transformation.png)
+![transformation.png](/assets/images/data_pipelines/transformation.png)
 Transforming raw data into clean readable and usable data is very important for any data scientist,data analyst or data engineer.The focus here will be to create a reliable data pipeline from the apple jobs dataset.
 
 In this case, I am going to explore and manipulate a live table that stores all Apple's job listings using SQL, with the following goals.
