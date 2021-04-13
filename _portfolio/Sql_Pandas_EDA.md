@@ -2,7 +2,7 @@
 header:
   overlay_image: /assets/images/sql_pandas/sql_pandas.jpg
   caption: "Photo credit: [**casparrubin**](https://unsplash.com)"
-permalink: /portfolio/Sql_Pandas/
+permalink: /portfolio/Sql_Pandas_EDA/
 date: 2021-04-13
 toc: true
 toc_label: "Contents"
