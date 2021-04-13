@@ -47,4 +47,4 @@ the theoretical to the practical.
 
 [1]: /assets/docs/resume.pdf
 
-[2]: mailto:peter@pwills.com
+[2]: mailto:davidwkeya@gmail.com

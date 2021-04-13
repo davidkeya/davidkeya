@@ -17,6 +17,8 @@ portfolio:
     children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
+      - title: "Sql and Pandas EDA on Apple Stock Prices"
+        url: /portfolio/Sql_Pandas/
       - title: "Creating Data Pipelines From Raw Data Using SQL"
         url: /portfolio/Apple_jobs/
       - title: "Sales Analysis"
