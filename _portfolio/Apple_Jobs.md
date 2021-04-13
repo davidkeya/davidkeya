@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: /assets/images/apple/apple.jpg
+  overlay_image: /assets/images/data_pipelines/apple.jpg
   caption: "Photo credit: [**Carl Heyerdahl**](https://unsplash.com)"
 permalink: /portfolio/Apple_jobs/
 date: 2020-11-15
