@@ -1189,7 +1189,7 @@ month_shares_df.plot.bar(x='month', y='share_count', figsize = (18,10));
 
 
 
-![png](output_53_0.png)
+![png](/assets/images/sql_pandas/output_53_0.png)
 
 
 
@@ -1200,7 +1200,7 @@ month_shares_df.plot.line(x='month', y='share_count', figsize = (18,6), subplots
 
 
 
-![png](output_54_0.png)
+![png](/assets/images/sql_pandas/output_54_0.png)
 
 
 
@@ -1211,7 +1211,7 @@ month_shares_df.plot();
 
 
 
-![png](output_55_0.png)
+![png](/assets/images/sql_pandas/output_55_0.png)
 
 
 
@@ -1620,7 +1620,7 @@ price_change_df.plot.bar(x='year', y='price_change', figsize = (24,5));
 
 
 
-![png](output_64_0.png)
+![png](/assets/images/sql_pandas/output_64_0.png)
 
 
 
@@ -1868,7 +1868,7 @@ plt.ylabel("Stock Price");
 
 
 
-![png](output_73_0.png)
+![png](/assets/images/sql_pandas/output_73_0.png)
 
 
 
