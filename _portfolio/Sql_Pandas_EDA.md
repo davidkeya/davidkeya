@@ -894,7 +894,7 @@ year_entries_df.plot.bar(x='year', y='entry_count', figsize=(18,10));
 
 
 
-![png](output_44_0.png)
+![png](/assets/images/sql_pandas/output_44_0.png)
 
 
 
@@ -905,7 +905,7 @@ year_entries_df.plot.line(x='year', y='entry_count', figsize=(18,6), subplots=Tr
 
 
 
-![png](output_45_0.png)
+![png](/assets/images/sql_pandas/output_45_0.png)
 
 
 
